@@ -1,0 +1,24 @@
+.Header{
+  width: 100%;
+  background-color: rgb(204, 78, 78);
+  border-bottom: solid 10px #000000;
+}
+.Menu{
+  margin: 0px;
+  padding: 0px;
+  display:flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+.logo{
+  height: 2rem;
+}
+.menu li{
+  font-weight: 600;
+  padding: 6px;
+  align-items: center;
+
+}
